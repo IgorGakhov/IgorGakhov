@@ -43,15 +43,7 @@ Here are some ideas to get you started:
 
 <h2>💼 Technical Skills</h2>
 
-<img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-<img alt="VSCode" src="https://img.shields.io/badge/-VSCode-0066b8?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-<img alt="Bash" src="https://img.shields.io/badge/-Bash-45b8d8?style=for-the-badge&logo=GNU-bash&logoColor=white"/>
-<img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-dd4814?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-<img alt="git" src="https://img.shields.io/badge/-Git-ea2845?style=for-the-badge&logo=git&logoColor=white"/>
-<img alt="github" src="https://img.shields.io/badge/-Github-2b2a33?style=for-the-badge&logo=github&logoColor=white"/>
-<img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-311C87?style=for-the-badge&logo=github-actions&logoColor=white"/>
-<img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img alt="CSS3" src="https://img.shields.io/badge/-css3-2088FF?style=for-the-badge&logo=css3&logoColor=white"/>
+<img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"> <img alt="VSCode" src="https://img.shields.io/badge/-VSCode-0066b8?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img alt="Bash" src="https://img.shields.io/badge/-Bash-45b8d8?style=for-the-badge&logo=GNU-bash&logoColor=white"/> <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-dd4814?style=for-the-badge&logo=ubuntu&logoColor=white"/> <img alt="git" src="https://img.shields.io/badge/-Git-ea2845?style=for-the-badge&logo=git&logoColor=white"/> <img alt="github" src="https://img.shields.io/badge/-Github-2b2a33?style=for-the-badge&logo=github&logoColor=white"/> <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-311C87?style=for-the-badge&logo=github-actions&logoColor=white"/> <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/-css3-2088FF?style=for-the-badge&logo=css3&logoColor=white"/>
 
 ___
 
