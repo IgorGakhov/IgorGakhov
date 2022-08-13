@@ -41,28 +41,33 @@ Here are some ideas to get you started:
   <p align="center">Preferred contact method is Email or Telegram.</p>
 </p>
 
+
 ### 💼 Technical Skills
 
-<p>
-<img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-<img alt="VSCode" src="https://img.shields.io/badge/-VSCode-0066b8?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-<img alt="Bash" src="https://img.shields.io/badge/-Bash-45b8d8?style=for-the-badge&logo=GNU-bash&logoColor=white"/>
-<img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-dd4814?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-<img alt="git" src="https://img.shields.io/badge/-Git-ea2845?style=for-the-badge&logo=git&logoColor=white"/>
-<img alt="github" src="https://img.shields.io/badge/-Github-2b2a33?style=for-the-badge&logo=github&logoColor=white"/>
-<img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-311C87?style=for-the-badge&logo=github-actions&logoColor=white"/>
-<img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img alt="CSS3" src="https://img.shields.io/badge/-css3-2088FF?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
+_**Programming Languages:**_ [![](https://img.shields.io/badge/Python-14354C?style=square&logo=Python&logoColor=white)](https://github.com/topics/python)
+
+_**Frameworks & Libraries:**_ [![](https://img.shields.io/badge/-Poetry-%23000066?style=square&logo=Poetry)](https://github.com/topics/poetry) [![](https://img.shields.io/badge/-Pytest-%2399CCFF?style=square&logo=Pytest)](https://github.com/topics/pytest)
+
+_**Web Technologies:**_ [![](https://img.shields.io/badge/HTML5-E34F26?style=square&logo=HTML5&logoColor=white)](https://github.com/topics/html) [![](https://img.shields.io/badge/CSS3-1572B6?style=square&logo=CSS3&logoColor=white)](https://github.com/topics/css) [![](https://img.shields.io/badge/-JSON-yellow?style=square&logo=JSON&logoColor=white)](https://github.com/topics/json)
+
+_**Operating Systems:**_ [![](https://img.shields.io/badge/Linux-FCC624?style=square&logo=Linux&logoColor=black)](https://github.com/topics/linux) [![](https://img.shields.io/badge/-Ubuntu-dd4814?style=square&logo=Ubuntu&logoColor=white)](https://github.com/topics/ubuntu)
+
+_**Environment & Tools:**_ [![](https://img.shields.io/badge/-Bash-45b8d8?style=square&logo=GNU-Bash&logoColor=white)](https://github.com/topics/bash) [![](https://img.shields.io/badge/-Git-ea2845?style=square&logo=git&logoColor=white)](https://github.com/topics/git) [![](https://img.shields.io/badge/-GitHub-2b2a33?style=square&logo=GitHub&logoColor=white)](https://github.com/topics/github) [![](https://img.shields.io/badge/-GitHub_Actions-311C87?style=square&logo=github-actions&logoColor=white)](https://github.com/topics/github-actions) [![](https://img.shields.io/badge/-VSCode-0066b8?style=square&logo=Visual-Studio-Code&logoColor=white)](https://github.com/topics/visual-studio-code)
+
+_**Communication & Methodologies:**_ [![](https://img.shields.io/badge/Telegram-2CA5E0?style=square&logo=Telegram&logoColor=white)](https://github.com/topics/telegram) [![](https://img.shields.io/badge/Slack-4A154B?style=square&logo=Slack&logoColor=white)](https://github.com/topics/slack) [![](https://img.shields.io/badge/-Agile-lightgrey?style=square)](https://github.com/topics/agile) [![](https://img.shields.io/badge/-Scrum-lightgrey?style=square)](https://github.com/topics/scrum)
+
+_**Subject Field:**_ [![](https://img.shields.io/badge/-Web_Development-informational?style=square)](https://github.com/topics/webdev)
+
 
 ### 🎓 Education
 
 - 📖 **Python Web Development**\
 📆 2022 - today\
-📍 **Hexlet Courses** - online
+📍 **[Hexlet Courses](https://ru.hexlet.io/)** - online
+
 
 ### 📎 Experience
 
 - 👨‍💻 **Technical Search Engine Optimizer (SEO)**\
-📆 2021 - 2022\
+📆 2020 - 2022\
 📍 **[kite.](https://kite-da.ru/)** - Krasnodar, Russia
