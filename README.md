@@ -81,6 +81,6 @@ Here are some ideas to get you started:
 
 <!--END_SECTION:activity-->
 
-![Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IgorGakhov&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorGakhov&langs_count=3&exclude_repo=&hide=html,css,makefile&layout=default&theme=radical)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=IgorGakhov&include_all_commits=true&count_private=true&theme=radical&hide_title=false&custom_title=&show_icons=true) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IgorGakhov&theme=radical)
+![Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IgorGakhov&width=500&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=IgorGakhov&include_all_commits=true&count_private=true&hide_title=false&custom_title=&show_icons=true&theme=radical) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IgorGakhov&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorGakhov&langs_count=10&exclude_repo=&hide=html,css,makefile&layout=default&card_width=495&theme=radical)
