@@ -74,6 +74,13 @@ Here are some ideas to get you started:
 📍 **[kite.](https://kite-da.ru/)** - Krasnodar, Russia
 
 
+### 📊 Github Stats
+
+**_Recent Activity_**
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
+
+![Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IgorGakhov&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorGakhov&langs_count=3&exclude_repo=&hide=html,css,makefile&layout=default&theme=radical)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=IgorGakhov&include_all_commits=true&count_private=true&theme=radical&hide_title=false&custom_title=&show_icons=true) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IgorGakhov&theme=radical)
