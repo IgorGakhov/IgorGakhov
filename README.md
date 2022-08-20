@@ -77,6 +77,7 @@ Here are some ideas to get you started:
 ### 📊 Github Stats
 
 **_Recent Activity_**
+
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
