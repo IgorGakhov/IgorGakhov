@@ -78,9 +78,9 @@ Here are some ideas to get you started:
 
 **_Recent Activity_**
 
-<!--START_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
 
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:end-->
 
 ![Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IgorGakhov&width=500&theme=radical)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=IgorGakhov&include_all_commits=true&count_private=true&hide_title=false&custom_title=&show_icons=true&hide_border=true&theme=radical) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IgorGakhov&hide_border=true&theme=radical)
