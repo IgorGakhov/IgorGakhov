@@ -82,6 +82,10 @@ Here are some ideas to get you started:
 
 <!--RECENT_ACTIVITY:end-->
 
+<!--RECENT_ACTIVITY:last_update-->
+
+<!--RECENT_ACTIVITY:last_update_end-->
+
 ![Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IgorGakhov&width=500&theme=radical)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=IgorGakhov&include_all_commits=true&count_private=true&hide_title=false&custom_title=&show_icons=true&hide_border=true&theme=radical) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IgorGakhov&hide_border=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorGakhov&langs_count=10&exclude_repo=&hide=html,css,makefile&layout=default&card_width=495&hide_border=true&theme=radical)
