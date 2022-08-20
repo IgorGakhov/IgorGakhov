@@ -79,7 +79,11 @@ Here are some ideas to get you started:
 **_Recent Activity_**
 
 <!--RECENT_ACTIVITY:start-->
-
+1. ✔️ Closed issue [#2](https://github.com/Karkyn1/TestProgramm/issues/2) in [Karkyn1/TestProgramm](https://github.com/Karkyn1/TestProgramm)
+2. ⬆️ Pushed 1 commit(s) to [IgorGakhov/IgorGakhov](https://github.com/IgorGakhov/IgorGakhov)
+3. ✔️ Closed issue [#2](https://github.com/Karkyn1/TestProgramm/issues/2) in [Karkyn1/TestProgramm](https://github.com/Karkyn1/TestProgramm)
+4. ✔️ Closed issue [#2](https://github.com/Karkyn1/TestProgramm/issues/2) in [Karkyn1/TestProgramm](https://github.com/Karkyn1/TestProgramm)
+5. ⬆️ Pushed 1 commit(s) to [IgorGakhov/IgorGakhov](https://github.com/IgorGakhov/IgorGakhov)
 <!--RECENT_ACTIVITY:end-->
 
 ![Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IgorGakhov&width=500&theme=radical)
