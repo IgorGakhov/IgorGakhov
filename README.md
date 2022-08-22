@@ -79,15 +79,15 @@ Here are some ideas to get you started:
 **_Recent activity until today:_**
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#972](https://github.com/hexlet-codebattle/battle_asserts/pull/972) in [hexlet-codebattle/battle_asserts](https://github.com/hexlet-codebattle/battle_asserts)
-2. 🔱 Forked [IgorGakhov/battle_asserts](https://github.com/IgorGakhov/battle_asserts) from [hexlet-codebattle/battle_asserts](https://github.com/hexlet-codebattle/battle_asserts)
-3. ⭐ Starred [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
-4. ⬆️ Pushed 1 commit(s) to [IgorGakhov/IgorGakhov](https://github.com/IgorGakhov/IgorGakhov)
-5. ⬆️ Pushed 1 commit(s) to [IgorGakhov/IgorGakhov](https://github.com/IgorGakhov/IgorGakhov)
+1. 💪 Opened PR [#143](https://github.com/Hexlet/ru-local-communities/pull/143) in [Hexlet/ru-local-communities](https://github.com/Hexlet/ru-local-communities)
+2. 🔱 Forked [IgorGakhov/ru-local-communities](https://github.com/IgorGakhov/ru-local-communities) from [Hexlet/ru-local-communities](https://github.com/Hexlet/ru-local-communities)
+3. ⬆️ Pushed 2 commit(s) to [IgorGakhov/battle_asserts](https://github.com/IgorGakhov/battle_asserts)
+4. 💪 Opened PR [#972](https://github.com/hexlet-codebattle/battle_asserts/pull/972) in [hexlet-codebattle/battle_asserts](https://github.com/hexlet-codebattle/battle_asserts)
+5. 🔱 Forked [IgorGakhov/battle_asserts](https://github.com/IgorGakhov/battle_asserts) from [hexlet-codebattle/battle_asserts](https://github.com/hexlet-codebattle/battle_asserts)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, August 21st, 2022, 1:24:38 AM (GMT)
+Last Updated: Monday, August 22nd, 2022, 1:27:10 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ![Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IgorGakhov&width=500&theme=radical)
