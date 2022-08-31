@@ -79,15 +79,15 @@ Here are some ideas to get you started:
 **_Recent activity until today:_**
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#975](https://github.com/hexlet-codebattle/battle_asserts/issues/975#issuecomment-1229393823) in [hexlet-codebattle/battle_asserts](https://github.com/hexlet-codebattle/battle_asserts)
-2. 💬 Commented on [#975](https://github.com/hexlet-codebattle/battle_asserts/issues/975#issuecomment-1229393409) in [hexlet-codebattle/battle_asserts](https://github.com/hexlet-codebattle/battle_asserts)
-3. 💬 Commented on [#975](https://github.com/hexlet-codebattle/battle_asserts/issues/975#issuecomment-1229123130) in [hexlet-codebattle/battle_asserts](https://github.com/hexlet-codebattle/battle_asserts)
-4. 💪 Opened PR [#976](https://github.com/hexlet-codebattle/battle_asserts/pull/976) in [hexlet-codebattle/battle_asserts](https://github.com/hexlet-codebattle/battle_asserts)
-5. ⬆️ Pushed 1 commit(s) to [IgorGakhov/battle_asserts](https://github.com/IgorGakhov/battle_asserts)
+1. ⭐ Starred [psf/requests](https://github.com/psf/requests)
+2. 💬 Commented on [#975](https://github.com/hexlet-codebattle/battle_asserts/issues/975#issuecomment-1229393823) in [hexlet-codebattle/battle_asserts](https://github.com/hexlet-codebattle/battle_asserts)
+3. 💬 Commented on [#975](https://github.com/hexlet-codebattle/battle_asserts/issues/975#issuecomment-1229393409) in [hexlet-codebattle/battle_asserts](https://github.com/hexlet-codebattle/battle_asserts)
+4. 💬 Commented on [#975](https://github.com/hexlet-codebattle/battle_asserts/issues/975#issuecomment-1229123130) in [hexlet-codebattle/battle_asserts](https://github.com/hexlet-codebattle/battle_asserts)
+5. 💪 Opened PR [#976](https://github.com/hexlet-codebattle/battle_asserts/pull/976) in [hexlet-codebattle/battle_asserts](https://github.com/hexlet-codebattle/battle_asserts)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, August 30th, 2022, 1:55:28 AM (GMT)
+Last Updated: Wednesday, August 31st, 2022, 2:00:52 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ![Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IgorGakhov&width=500&theme=radical)
