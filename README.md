@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi, guys! <img alt="hello" img src="content/wave.gif" width="35"></h1>
 
+<p align="center"><a href="https://visitcount.itsvg.in/analytics/IgorGakhov"><img src="https://visitcount.itsvg.in/api?id=IgorGakhov&label=Profile%20Views&color=1&icon=0&pretty=true" /></a></p> <!-- [![](https://visitcount.itsvg.in/api?id=IgorGakhov&label=Profile%20Views&color=1&icon=0&pretty=true)](https://visitcount.itsvg.in/analytics/IgorGakhov) -->
+
 <p align="center"> Welcome to my page! <br> I'm Igor, currently learning Python and dreaming of working as a real developer.</p>
 
 <p align="center">
