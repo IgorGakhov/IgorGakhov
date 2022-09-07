@@ -19,9 +19,21 @@ Here are some ideas to get you started:
 
 <p align="center"><a href="https://visitcount.itsvg.in/analytics/IgorGakhov"><img src="https://visitcount.itsvg.in/api?id=IgorGakhov&label=Profile%20Views&color=1&icon=0&pretty=true" /></a></p> <!-- [![](https://visitcount.itsvg.in/api?id=IgorGakhov&label=Profile%20Views&color=1&icon=0&pretty=true)](https://visitcount.itsvg.in/analytics/IgorGakhov) -->
 
-<p align="center"> Welcome to my page! <br> I'm Igor, currently learning Python and dreaming of working as a real developer.</p>
+<p align="center"><b> Welcome to my page! </b><br> <i>I'm Igor, currently learning Python and dreaming of working as a real developer.</i></p>
 
 <p align="center">
+  <b>My CV:</b>
+  <br>
+  <a href="https://cv.hexlet.io/resumes/1379">
+    <img src="content/hexlet_logo.svg" width="40" alt="Hexlet CV">
+  </a>
+  <!-- <a href="#">
+    <img src="content/hh_logo.svg" width="50" alt="HeadHunter CV">
+  </a> -->
+  <a href="https://career.habr.com/igor_gakhov">
+    <img src="content/habr_career_logo.svg" width="50" alt="Habr CV">
+  </a>
+  <br>
   <b>My contacts:</b>
   <br>
   <a href="mailto:gakhov_igor@rambler.ru">
@@ -39,8 +51,8 @@ Here are some ideas to get you started:
   <a href="https://instagram.com/igor_gakhov">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge">
   </a>
-  <p align="center">💬 If you have any question/feedback, please do not hesitate to reach out to me!</p>
-  <p align="center">Preferred contact method is Email or Telegram.</p>
+  <p align="center"><i>💬 If you have any question/feedback, please do not hesitate to reach out to me!</i></p>
+  <p align="center"><i>Preferred contact method is Email or Telegram.</i></p>
   <p>In programming, I am motivated by the ability to create something new, solve interesting problems, as well as unlimited scope for personal development and career growth, because I don’t like to stagnate and turn sour otherwise. Now Backend and deepening in this direction are interesting. The choice was not made by chance: Backend is the “brain” of the application, and as a person of a mathematical mindset (in my school years I was fond of mathematics, participated in olympiads), I just like working with data, systematizing processes and building architecture. In the future plans - the study of new languages ​​and tools, including Frontend-technologies.</p>
 </p>
 

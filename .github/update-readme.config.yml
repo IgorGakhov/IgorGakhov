@@ -6,7 +6,7 @@ settings:
 
 messages:
   comments: ":speech_balloon: Commented on {ID} in {REPO}"
-  issue_opened: ":exclamation:️ Opened issue {ID} in {REPO}"
+  issue_opened: ":exclamation: Opened issue {ID} in {REPO}"
   issue_closed: ":heavy_check_mark: Closed issue {ID} in {REPO}"
   pr_opened: ":muscle: Opened PR {ID} in {REPO}"
   pr_closed: ":x: Closed PR {ID} in {REPO}"
