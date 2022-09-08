@@ -92,13 +92,9 @@ Here are some ideas to get you started:
 
 **_Recent activity until today:_**
 
-<!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [goq/telegram-list](https://github.com/goq/telegram-list)
-2. ⬆️ Pushed 1 commit(s) to [IgorGakhov/IgorGakhov](https://github.com/IgorGakhov/IgorGakhov)
-3. ⬆️ Pushed 1 commit(s) to [IgorGakhov/IgorGakhov](https://github.com/IgorGakhov/IgorGakhov)
-4. ❗️ Opened issue [#977](https://github.com/hexlet-codebattle/battle_asserts/issues/977) in [hexlet-codebattle/battle_asserts](https://github.com/hexlet-codebattle/battle_asserts)
-5. ⭐ Starred [psf/requests](https://github.com/psf/requests)
-<!--RECENT_ACTIVITY:end-->
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
 
 <!--RECENT_ACTIVITY:last_update-->
 Last Updated: Thursday, September 8th, 2022, 6:26:40 PM (GMT)
