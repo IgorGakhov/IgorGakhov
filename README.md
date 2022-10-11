@@ -90,9 +90,9 @@ Here are some ideas to get you started:
 
 **_Recent activity until today:_**
 
-<!--START_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
 
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
 Last Updated: Thursday, September 8th, 2022, 6:26:40 PM (GMT)
