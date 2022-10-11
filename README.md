@@ -25,9 +25,9 @@ Here are some ideas to get you started:
   <a href="https://cv.hexlet.io/resumes/1379">
     <img src="content/hexlet_logo.svg" width="40" alt="Hexlet CV">
   </a>
-  <!-- <a href="#">
+  <a href="https://krasnodar.hh.ru/applicant/resumes/view?resume=3edd630dff0b3c4ebd0039ed1f36346a734577">
     <img src="content/hh_logo.svg" width="50" alt="HeadHunter CV">
-  </a> -->
+  </a>
   <a href="https://career.habr.com/igor_gakhov">
     <img src="content/habr_career_logo.svg" width="50" alt="Habr CV">
   </a>
