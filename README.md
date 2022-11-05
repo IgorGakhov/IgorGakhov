@@ -91,15 +91,15 @@ Here are some ideas to get you started:
 **_Recent activity until today:_**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [IgorGakhov/python-project-51](https://github.com/IgorGakhov/python-project-51)
-2. ⬆️ Pushed 1 commit(s) to [IgorGakhov/python-project-51](https://github.com/IgorGakhov/python-project-51)
-3. ⭐ Starred [Lissy93/Lissy93](https://github.com/Lissy93/Lissy93)
-4. ⬆️ Pushed 1 commit(s) to [IgorGakhov/python-project-51](https://github.com/IgorGakhov/python-project-51)
+1. ⬆️ Pushed 1 commit(s) to [IgorGakhov/hexlet-django-blog](https://github.com/IgorGakhov/hexlet-django-blog)
+2. ⬆️ Pushed 1 commit(s) to [IgorGakhov/hexlet-django-blog](https://github.com/IgorGakhov/hexlet-django-blog)
+3. ⬆️ Pushed 1 commit(s) to [IgorGakhov/hexlet-django-blog](https://github.com/IgorGakhov/hexlet-django-blog)
+4. 📔 Created new repository [IgorGakhov/hexlet-django-blog](https://github.com/IgorGakhov/hexlet-django-blog)
 5. ⬆️ Pushed 1 commit(s) to [IgorGakhov/python-project-51](https://github.com/IgorGakhov/python-project-51)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, November 4th, 2022, 1:28:00 AM (GMT)
+Last Updated: Saturday, November 5th, 2022, 1:24:03 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ![Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IgorGakhov&width=500&theme=radical)
