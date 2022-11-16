@@ -91,15 +91,15 @@ Here are some ideas to get you started:
 **_Recent activity until today:_**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [skorokithakis/django-project-template](https://github.com/skorokithakis/django-project-template)
-2. ⬆️ Pushed 1 commit(s) to [IgorGakhov/hexlet-django-blog](https://github.com/IgorGakhov/hexlet-django-blog)
+1. ⭐ Starred [jmesyou/functional-programming-jargon.py](https://github.com/jmesyou/functional-programming-jargon.py)
+2. ⭐ Starred [skorokithakis/django-project-template](https://github.com/skorokithakis/django-project-template)
 3. ⬆️ Pushed 1 commit(s) to [IgorGakhov/hexlet-django-blog](https://github.com/IgorGakhov/hexlet-django-blog)
 4. ⬆️ Pushed 1 commit(s) to [IgorGakhov/hexlet-django-blog](https://github.com/IgorGakhov/hexlet-django-blog)
-5. 📔 Created new repository [IgorGakhov/hexlet-django-blog](https://github.com/IgorGakhov/hexlet-django-blog)
+5. ⬆️ Pushed 1 commit(s) to [IgorGakhov/hexlet-django-blog](https://github.com/IgorGakhov/hexlet-django-blog)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, November 15th, 2022, 1:18:33 AM (GMT)
+Last Updated: Wednesday, November 16th, 2022, 1:18:50 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ![Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IgorGakhov&width=500&theme=radical)
