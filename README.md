@@ -55,23 +55,6 @@ Here are some ideas to get you started:
 </p>
 
 
-### 💼 Skills
-
-**_Programming Languages:_** [![](https://img.shields.io/badge/Python-14354C?style=square&logo=Python&logoColor=white)](https://github.com/topics/python)
-
-**_Frameworks & Libraries:_** [![](https://img.shields.io/badge/-Poetry-%23000066?style=square&logo=Poetry)](https://github.com/topics/poetry) [![](https://img.shields.io/badge/-Pytest-%2399CCFF?style=square&logo=Pytest)](https://github.com/topics/pytest)
-
-**_Web Technologies:_** [![](https://img.shields.io/badge/HTML5-E34F26?style=square&logo=HTML5&logoColor=white)](https://github.com/topics/html) [![](https://img.shields.io/badge/CSS3-1572B6?style=square&logo=CSS3&logoColor=white)](https://github.com/topics/css) [![](https://img.shields.io/badge/-JSON-yellow?style=square&logo=JSON&logoColor=white)](https://github.com/topics/json)
-
-**_Operating Systems:_** [![](https://img.shields.io/badge/Linux-FCC624?style=square&logo=Linux&logoColor=black)](https://github.com/topics/linux) [![](https://img.shields.io/badge/-Ubuntu-dd4814?style=square&logo=Ubuntu&logoColor=white)](https://github.com/topics/ubuntu)
-
-**_Environment & Tools:_** [![](https://img.shields.io/badge/-Bash-45b8d8?style=square&logo=GNU-Bash&logoColor=white)](https://github.com/topics/bash) [![](https://img.shields.io/badge/-Git-ea2845?style=square&logo=git&logoColor=white)](https://github.com/topics/git) [![](https://img.shields.io/badge/-GitHub-2b2a33?style=square&logo=GitHub&logoColor=white)](https://github.com/topics/github) [![](https://img.shields.io/badge/-GitHub_Actions-311C87?style=square&logo=github-actions&logoColor=white)](https://github.com/topics/github-actions) [![](https://img.shields.io/badge/-VSCode-0066b8?style=square&logo=Visual-Studio-Code&logoColor=white)](https://github.com/topics/visual-studio-code)
-
-**_Communication & Methodologies:_** [![](https://img.shields.io/badge/Telegram-2CA5E0?style=square&logo=Telegram&logoColor=white)](https://github.com/topics/telegram) [![](https://img.shields.io/badge/Slack-4A154B?style=square&logo=Slack&logoColor=white)](https://github.com/topics/slack) [![](https://img.shields.io/badge/-Agile-lightgrey?style=square)](https://github.com/topics/agile) [![](https://img.shields.io/badge/-Scrum-lightgrey?style=square)](https://github.com/topics/scrum)
-
-**_Subject Field:_** [![](https://img.shields.io/badge/-Web_Development-informational?style=square)](https://github.com/topics/webdev)
-
-
 ### 🎓 Education
 
 - 📖 **Python Web Development**\
