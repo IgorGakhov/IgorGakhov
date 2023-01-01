@@ -75,14 +75,14 @@ Here are some ideas to get you started:
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [IgorGakhov/python-project-52](https://github.com/IgorGakhov/python-project-52)
-2. ⬆️ Pushed 1 commit(s) to [IgorGakhov/IgorGakhov](https://github.com/IgorGakhov/IgorGakhov)
+2. ⬆️ Pushed 1 commit(s) to [IgorGakhov/python-project-52](https://github.com/IgorGakhov/python-project-52)
 3. ⬆️ Pushed 1 commit(s) to [IgorGakhov/IgorGakhov](https://github.com/IgorGakhov/IgorGakhov)
-4. 🤝 Became collaborator on [IgorGakhov/python-project-52](https://github.com/IgorGakhov/python-project-52)
-5. ⬆️ Pushed 1 commit(s) to [IgorGakhov/python-project-52](https://github.com/IgorGakhov/python-project-52)
+4. ⬆️ Pushed 1 commit(s) to [IgorGakhov/IgorGakhov](https://github.com/IgorGakhov/IgorGakhov)
+5. 🤝 Became collaborator on [IgorGakhov/python-project-52](https://github.com/IgorGakhov/python-project-52)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, December 31st, 2022, 1:03:00 AM (GMT)
+Last Updated: Sunday, January 1st, 2023, 1:14:18 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ![Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IgorGakhov&width=500&theme=radical)
