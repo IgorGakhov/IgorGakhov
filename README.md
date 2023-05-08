@@ -74,15 +74,15 @@ Here are some ideas to get you started:
 **_Recent activity until today:_**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [IgorGakhov/NFT-Text-Overlay-API](https://github.com/IgorGakhov/NFT-Text-Overlay-API)
-2. ⬆️ Pushed 1 commit(s) to [IgorGakhov/NFT-Text-Overlay-API](https://github.com/IgorGakhov/NFT-Text-Overlay-API)
-3. ⬆️ Pushed 1 commit(s) to [IgorGakhov/NFT-Text-Overlay-API](https://github.com/IgorGakhov/NFT-Text-Overlay-API)
-4. ⬆️ Pushed 1 commit(s) to [IgorGakhov/NFT-Text-Overlay-API](https://github.com/IgorGakhov/NFT-Text-Overlay-API)
-5. 📔 Created new repository [IgorGakhov/NFT-Text-Overlay-API](https://github.com/IgorGakhov/NFT-Text-Overlay-API)
+1. ⬆️ Pushed 4 commit(s) to [IgorGakhov/NFT-Text-Overlay-API](https://github.com/IgorGakhov/NFT-Text-Overlay-API)
+2. 🎉 Merged PR [#1](https://github.com/IgorGakhov/NFT-Text-Overlay-API/pull/1) in [IgorGakhov/NFT-Text-Overlay-API](https://github.com/IgorGakhov/NFT-Text-Overlay-API)
+3. ⬆️ Pushed 2 commit(s) to [IgorGakhov/NFT-Text-Overlay-API](https://github.com/IgorGakhov/NFT-Text-Overlay-API)
+4. 🎉 Merged PR [#2](https://github.com/IgorGakhov/NFT-Text-Overlay-API/pull/2) in [IgorGakhov/NFT-Text-Overlay-API](https://github.com/IgorGakhov/NFT-Text-Overlay-API)
+5. ⬆️ Pushed 1 commit(s) to [IgorGakhov/NFT-Text-Overlay-API](https://github.com/IgorGakhov/NFT-Text-Overlay-API)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, May 7th, 2023, 1:06:29 AM (GMT)
+Last Updated: Monday, May 8th, 2023, 1:00:55 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ![Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IgorGakhov&width=500&theme=radical)
