@@ -55,18 +55,18 @@ Here are some ideas to get you started:
 </p>
 
 
-### 🎓 Education
+<!-- ### 🎓 Education
 
 - 📖 **Python Web Development**\
-📆 2022 - today\
-📍 **[Hexlet Courses](https://ru.hexlet.io/)** - online
+📆 2022 - 2023\
+📍 **[Hexlet Courses](https://ru.hexlet.io/)** - online -->
 
 
-### 📎 Experience
+<!-- ### 📎 Experience
 
-- 👨‍💻 **Technical Search Engine Optimizer (SEO)**\
+- 👨‍💻 **Technical Search Engine Optimizer (SEO) / Developer**\
 📆 2020 - 2022\
-📍 **[kite.](https://kite-da.ru/)** - Krasnodar, Russia
+📍 **[kite.](https://kite-da.ru/)** - Krasnodar, Russia -->
 
 
 ### 📊 Github Stats
@@ -87,4 +87,4 @@ Last Updated: Sunday, May 14th, 2023, 1:05:49 AM (GMT)
 
 ![Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IgorGakhov&width=500&theme=radical)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=IgorGakhov&include_all_commits=true&count_private=true&hide_title=false&custom_title=&show_icons=true&hide_border=true&theme=radical) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IgorGakhov&hide_border=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorGakhov&langs_count=10&exclude_repo=&hide=html,css,shell,makefile,procfile&layout=default&card_width=495&hide_border=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorGakhov&langs_count=10&exclude_repo=&hide=html,css,shell,makefile,procfile,mako,dockerfile&layout=default&card_width=495&hide_border=true&theme=radical)
