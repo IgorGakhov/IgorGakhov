@@ -1,0 +1,70 @@
+name: 👩‍💻 Inserts Recent Activity
+on:
+  schedule:
+    - cron: '0 */1 * * *' # Run every 1 hour
+    # # Runs at the end of every day.
+    # - cron: '0 0 * * *'
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    # permissions:
+    #   contents: write
+    name: Update this repo's README with recent activity
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Adds activity to Readme (EN)
+        uses: lissy93/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          COMMIT_MSG: ':zap: Updates recent activity'
+        with:
+          CONFIG_FILE: "./.github/workflows/recent-activity-en.config.yml"
+          MAX_LINES: 10
+
+      # - name: Adds last activity to Readme (EN)
+      #   uses: Readme-Workflows/recent-activity@v2.4.0
+      #   env:
+      #    GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      # with:
+      #     CONFIG_FILE: "./.github/workflows/recent-activity-en.config.yml"
+
+      - name: Adds activity to file (EN)
+        uses: lissy93/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          COMMIT_MSG: ':zap: Updates recent activity'
+        with:
+          CONFIG_FILE: "./.github/workflows/recent-activity-en.config.yml"
+          MAX_LINES: 100
+          TARGET_FILE: './pages/RECENT-ACTIVITY.md'
+
+      - name: Adds activity to Readme (RU)
+        uses: lissy93/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          COMMIT_MSG: ':zap: Updates recent activity'
+        with:
+          CONFIG_FILE: "./.github/workflows/recent-activity-ru.config.yml"
+          MAX_LINES: 10
+          TARGET_FILE: './locale/ru/README.md'
+
+      # - name: Adds last activity to Readme (RU)
+      #   uses: Readme-Workflows/recent-activity@v2.4.0
+      #   env:
+      #    GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      # with:
+      #     CONFIG_FILE: "./.github/workflows/recent-activity-ru.config.yml"
+
+      - name: Adds activity to file (RU)
+        uses: lissy93/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          COMMIT_MSG: ':zap: Updates recent activity'
+        with:
+          CONFIG_FILE: "./.github/workflows/recent-activity-ru.config.yml"
+          MAX_LINES: 100
+          TARGET_FILE: './locale/ru/pages/RECENT-ACTIVITY.md'

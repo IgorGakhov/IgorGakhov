@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 <!-- Title -->
 <h1 align="center">Hi, guys! <img alt="hello" img src="content/wave.gif" width="35"></h1>
-<p align="center"><b> Welcome to my page! </b><br> <i>I'm Igor, currently learning Python and dreaming of becoming a strong developer.</i></p>
+<p align="center"><b> Welcome to my page! </b><br><i>I'm Igor, currently learning Python and dreaming of becoming a strong developer.</i></p>
 
 
 <!-- CV & Socials -->
@@ -66,7 +66,7 @@ Here are some ideas to get you started:
     <a href="https://instagram.com/igor_gakhov">
       <img src="https://img.shields.io/badge/-Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge">
     </a>
-  <p align="center"><i>💬 If you have any question/feedback, please do not hesitate to reach out to me! Preferred contact method is Email or Telegram.</i></p>
+  <p align="center"><i>💬 If you have any question/feedback, please do not hesitate to reach out to me!<br>Preferred contact method is Email or Telegram.</i></p>
 </p>
 
 
