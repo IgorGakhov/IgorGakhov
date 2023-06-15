@@ -1,0 +1,33 @@
+settings:
+  username: "IgorGakhov"
+  commit_msg: "⚡ Update README with the recent activity"
+  max_lines: 10
+  readme_file: "./README.md"
+  disabled_events:
+    - "comments"
+  url_text: "{REPO}{ID}"
+  date:
+    timezone: "Europe/Moscow"
+    text: "Последнее событие: {DATE} (GMT+3)"
+    format: "dddd, mmmm dS, yyyy, h:MM:ss TT"
+  commit_name: "readme-bot"
+  commit_email: "41898282+github-actions[bot]@users.noreply.github.com"
+  line_prefix: "{NUM}. "
+  # ignored_repos:
+    # - username/repo
+messages:
+  comments: "💬 Прокомментировал {ID} в {REPO}"
+  push: "⬆️ Запушил {AMOUNT} коммит(а/ов) в {REPO}"
+  issue_opened: "❗️ Открыл ишью {ID} в {REPO}"
+  issue_closed: "✔️ Закрыл ишью {ID} в {REPO}"
+  pr_opened: "💪 Открыл PR {ID} в {REPO}"
+  pr_closed: "❌ Закрыл PR {ID} в {REPO}"
+  pr_merged: "🎉 Смерджил PR {ID} в {REPO}"
+  create_repo: "📔 Создал новый репозиторий {REPO}"
+  fork_repo: "🔱 Создал форк {FORK} от {REPO}"
+  wiki_create: "📖 Создал новую вики-страницу {WIKI} в {REPO}"
+  added_member: "🤝 Стала соавтором проекта {REPO}"
+  changes_approved: "👍 Одобрил изменение {ID} в {REPO}"
+  changes_requested: "🔴 Запросил изменения {ID} в {REPO}"
+  new_release: "✌️ Релизнул {ID} в {REPO}"
+  new_star: "⭐ Присвоил звезду {REPO}"
