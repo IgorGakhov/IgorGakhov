@@ -1,5 +1,5 @@
 # Recent Activity
 
-<!--START_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
 
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:end-->

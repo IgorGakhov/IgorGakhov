@@ -8,8 +8,6 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    # permissions:
-    #   contents: write
     name: Update this repo's README with recent activity
 
     steps:
@@ -22,15 +20,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           COMMIT_MSG: ':zap: Updates recent activity'
         with:
-          CONFIG_FILE: "./.github/workflows/recent-activity-en.config.yml"
-          MAX_LINES: 10
-
-      # - name: Adds last activity to Readme (EN)
-      #   uses: Readme-Workflows/recent-activity@v2.4.1
-      #   env:
-      #    GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      # with:
-      #     CONFIG_FILE: "./.github/workflows/recent-activity-en.config.yml"
+          CONFIG_FILE: "./.github/recent-activity-config/en-readme.config.yml"
 
       - name: Adds activity to file (EN)
         uses: Readme-Workflows/recent-activity@v2.4.1
@@ -38,9 +28,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           COMMIT_MSG: ':zap: Updates recent activity'
         with:
-          CONFIG_FILE: "./.github/workflows/recent-activity-en.config.yml"
-          MAX_LINES: 100
-          TARGET_FILE: './pages/RECENT-ACTIVITY.md'
+          CONFIG_FILE: "./.github/recent-activity-config/en-readme.config.yml"
 
       - name: Adds activity to Readme (RU)
         uses: Readme-Workflows/recent-activity@v2.4.1
@@ -48,16 +36,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           COMMIT_MSG: ':zap: Updates recent activity'
         with:
-          CONFIG_FILE: "./.github/workflows/recent-activity-ru.config.yml"
-          MAX_LINES: 10
-          TARGET_FILE: './locale/ru/README.md'
-
-      # - name: Adds last activity to Readme (RU)
-      #   uses: Readme-Workflows/recent-activity@v2.4.1
-      #   env:
-      #    GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      # with:
-      #     CONFIG_FILE: "./.github/workflows/recent-activity-ru.config.yml"
+          CONFIG_FILE: "./.github/recent-activity-config/ru-readme.config.yml"
 
       - name: Adds activity to file (RU)
         uses: Readme-Workflows/recent-activity@v2.4.1
@@ -65,6 +44,4 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           COMMIT_MSG: ':zap: Updates recent activity'
         with:
-          CONFIG_FILE: "./.github/workflows/recent-activity-ru.config.yml"
-          MAX_LINES: 100
-          TARGET_FILE: './locale/ru/pages/RECENT-ACTIVITY.md'
+          CONFIG_FILE: "./.github/recent-activity-config/ru-readme.config.yml"
