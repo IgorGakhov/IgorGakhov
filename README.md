@@ -69,6 +69,8 @@ Here are some ideas to get you started:
   <p align="center"><i>💬 If you have any question/feedback, please do not hesitate to reach out to me!<br>Preferred contact method is Email or Telegram.</i></p>
 </p>
 
+<br>
+
 
 <!-- Outer collapsible -->  
 <details>
@@ -236,20 +238,11 @@ Here are some ideas to get you started:
   <p><b><i>Recent activity until today:</i></b></p>
 
   <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Запушил 1 коммит(а/ов) в [IgorGakhov/IgorGakhov](https://github.com/IgorGakhov/IgorGakhov)<br>
-2. 🎉 Смерджил PR [#1](https://github.com/IgorGakhov/IgorGakhov/pull/1) в [IgorGakhov/IgorGakhov](https://github.com/IgorGakhov/IgorGakhov)<br>
-3. ⬆️ Запушил 5 коммит(а/ов) в [IgorGakhov/IgorGakhov](https://github.com/IgorGakhov/IgorGakhov)<br>
-4. ⬆️ Запушил 2 коммит(а/ов) в [IgorGakhov/IgorGakhov](https://github.com/IgorGakhov/IgorGakhov)<br>
-5. 💪 Открыл PR [#1](https://github.com/IgorGakhov/IgorGakhov/pull/1) в [IgorGakhov/IgorGakhov](https://github.com/IgorGakhov/IgorGakhov)<br>
-6. ⬆️ Запушил 5 коммит(а/ов) в [IgorGakhov/IgorGakhov](https://github.com/IgorGakhov/IgorGakhov)<br>
-7. ⬆️ Запушил 1 коммит(а/ов) в [IgorGakhov/IgorGakhov](https://github.com/IgorGakhov/IgorGakhov)<br>
-8. ⭐ Присвоил звезду [testdrivenio/fastapi-crud-async](https://github.com/testdrivenio/fastapi-crud-async)<br>
-9. ⬆️ Запушил 3 коммит(а/ов) в [IgorGakhov/NFT-Text-Overlay-API](https://github.com/IgorGakhov/NFT-Text-Overlay-API)<br>
-10. 🎉 Смерджил PR [#6](https://github.com/IgorGakhov/NFT-Text-Overlay-API/pull/6) в [IgorGakhov/NFT-Text-Overlay-API](https://github.com/IgorGakhov/NFT-Text-Overlay-API)<br>
+
   <!--RECENT_ACTIVITY:end-->
 
   <!--RECENT_ACTIVITY:last_update-->
-Последнее событие: Thursday, June 15th, 2023, 8:14:16 PM (GMT+3)
+
   <!--RECENT_ACTIVITY:last_update_end-->
 
   ----

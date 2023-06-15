@@ -1,8 +1,8 @@
 settings:
   username: "IgorGakhov"
-  commit_msg: "⚡ Update README (RU) with the recent activity"
-  max_lines: 10
-  readme_file: "./locale/ru/README.md"
+  commit_msg: "⚡ Update activity file (RU) with the recent activity"
+  max_lines: 100
+  readme_file: "./locale/ru/pages/RECENT-ACTIVITY.md"
   disabled_events:
     - "comments"
   url_text: "{REPO}{ID}"
