@@ -236,20 +236,20 @@ Here are some ideas to get you started:
   <p><b><i>Recent activity until today:</i></b></p>
 
   <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [IgorGakhov/IgorGakhov](https://github.com/IgorGakhov/IgorGakhov)<br>
-2. 🎉 Merged PR [#1](https://github.com/IgorGakhov/IgorGakhov/pull/1) in [IgorGakhov/IgorGakhov](https://github.com/IgorGakhov/IgorGakhov)<br>
-3. ⬆️ Pushed 5 commit(s) to [IgorGakhov/IgorGakhov](https://github.com/IgorGakhov/IgorGakhov)<br>
-4. ⬆️ Pushed 2 commit(s) to [IgorGakhov/IgorGakhov](https://github.com/IgorGakhov/IgorGakhov)<br>
-5. 💪 Opened PR [#1](https://github.com/IgorGakhov/IgorGakhov/pull/1) in [IgorGakhov/IgorGakhov](https://github.com/IgorGakhov/IgorGakhov)<br>
-6. ⬆️ Pushed 5 commit(s) to [IgorGakhov/IgorGakhov](https://github.com/IgorGakhov/IgorGakhov)<br>
-7. ⬆️ Pushed 1 commit(s) to [IgorGakhov/IgorGakhov](https://github.com/IgorGakhov/IgorGakhov)<br>
-8. ⭐ Starred [testdrivenio/fastapi-crud-async](https://github.com/testdrivenio/fastapi-crud-async)<br>
-9. ⬆️ Pushed 3 commit(s) to [IgorGakhov/NFT-Text-Overlay-API](https://github.com/IgorGakhov/NFT-Text-Overlay-API)<br>
-10. 🎉 Merged PR [#6](https://github.com/IgorGakhov/NFT-Text-Overlay-API/pull/6) in [IgorGakhov/NFT-Text-Overlay-API](https://github.com/IgorGakhov/NFT-Text-Overlay-API)<br>
+1. ⬆️ Запушил 1 коммит(а/ов) в [IgorGakhov/IgorGakhov](https://github.com/IgorGakhov/IgorGakhov)<br>
+2. 🎉 Смерджил PR [#1](https://github.com/IgorGakhov/IgorGakhov/pull/1) в [IgorGakhov/IgorGakhov](https://github.com/IgorGakhov/IgorGakhov)<br>
+3. ⬆️ Запушил 5 коммит(а/ов) в [IgorGakhov/IgorGakhov](https://github.com/IgorGakhov/IgorGakhov)<br>
+4. ⬆️ Запушил 2 коммит(а/ов) в [IgorGakhov/IgorGakhov](https://github.com/IgorGakhov/IgorGakhov)<br>
+5. 💪 Открыл PR [#1](https://github.com/IgorGakhov/IgorGakhov/pull/1) в [IgorGakhov/IgorGakhov](https://github.com/IgorGakhov/IgorGakhov)<br>
+6. ⬆️ Запушил 5 коммит(а/ов) в [IgorGakhov/IgorGakhov](https://github.com/IgorGakhov/IgorGakhov)<br>
+7. ⬆️ Запушил 1 коммит(а/ов) в [IgorGakhov/IgorGakhov](https://github.com/IgorGakhov/IgorGakhov)<br>
+8. ⭐ Присвоил звезду [testdrivenio/fastapi-crud-async](https://github.com/testdrivenio/fastapi-crud-async)<br>
+9. ⬆️ Запушил 3 коммит(а/ов) в [IgorGakhov/NFT-Text-Overlay-API](https://github.com/IgorGakhov/NFT-Text-Overlay-API)<br>
+10. 🎉 Смерджил PR [#6](https://github.com/IgorGakhov/NFT-Text-Overlay-API/pull/6) в [IgorGakhov/NFT-Text-Overlay-API](https://github.com/IgorGakhov/NFT-Text-Overlay-API)<br>
   <!--RECENT_ACTIVITY:end-->
 
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, June 15th, 2023, 6:14:12 PM (GMT)
+Последнее событие: Thursday, June 15th, 2023, 8:14:14 PM (GMT+3)
   <!--RECENT_ACTIVITY:last_update_end-->
 
   ----
