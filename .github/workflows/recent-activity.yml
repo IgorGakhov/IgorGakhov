@@ -14,10 +14,10 @@ jobs:
 
     steps:
       - name: Checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
 
       - name: Adds activity to Readme (EN)
-        uses: lissy93/github-activity-readme@master
+        uses: Readme-Workflows/recent-activity@v2.4.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           COMMIT_MSG: ':zap: Updates recent activity'
@@ -26,14 +26,14 @@ jobs:
           MAX_LINES: 10
 
       # - name: Adds last activity to Readme (EN)
-      #   uses: Readme-Workflows/recent-activity@v2.4.0
+      #   uses: Readme-Workflows/recent-activity@v2.4.1
       #   env:
       #    GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       # with:
       #     CONFIG_FILE: "./.github/workflows/recent-activity-en.config.yml"
 
       - name: Adds activity to file (EN)
-        uses: lissy93/github-activity-readme@master
+        uses: Readme-Workflows/recent-activity@v2.4.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           COMMIT_MSG: ':zap: Updates recent activity'
@@ -43,7 +43,7 @@ jobs:
           TARGET_FILE: './pages/RECENT-ACTIVITY.md'
 
       - name: Adds activity to Readme (RU)
-        uses: lissy93/github-activity-readme@master
+        uses: Readme-Workflows/recent-activity@v2.4.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           COMMIT_MSG: ':zap: Updates recent activity'
@@ -53,14 +53,14 @@ jobs:
           TARGET_FILE: './locale/ru/README.md'
 
       # - name: Adds last activity to Readme (RU)
-      #   uses: Readme-Workflows/recent-activity@v2.4.0
+      #   uses: Readme-Workflows/recent-activity@v2.4.1
       #   env:
       #    GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       # with:
       #     CONFIG_FILE: "./.github/workflows/recent-activity-ru.config.yml"
 
       - name: Adds activity to file (RU)
-        uses: lissy93/github-activity-readme@master
+        uses: Readme-Workflows/recent-activity@v2.4.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           COMMIT_MSG: ':zap: Updates recent activity'
