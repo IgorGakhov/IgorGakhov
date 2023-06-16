@@ -254,7 +254,7 @@ Here are some ideas to get you started:
 Last Updated: Friday, June 16th, 2023, 9:17:54 AM (GMT)
   <!--RECENT_ACTIVITY:last_update_end-->
 
-  ➡️  **[More Activity](/RECENT-ACTIVITY.md)**
+  ➡️  **[More Activity](pages/RECENT-ACTIVITY.md)**
 
   ----
 

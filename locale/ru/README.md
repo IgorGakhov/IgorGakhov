@@ -4,7 +4,7 @@
 <!-- Language selection -->
 <details align="right">
     <summary><b>🇷🇺 Russian</b></summary>
-    <b><a href="README.md">🇬🇧 English</a></b>
+    <b><a href="/README.md">🇬🇧 English</a></b>
   </details>
 
 
@@ -237,7 +237,7 @@
 Последнее событие: Friday, June 16th, 2023, 9:17:54 AM (GMT)
   <!--RECENT_ACTIVITY:last_update_end-->
 
-➡️  **[Больше активности](locale/ru/pages/RECENT-ACTIVITY.md)**
+➡️  **[Больше активности](/locale/ru/pages/RECENT-ACTIVITY.md)**
 
   ----
 
