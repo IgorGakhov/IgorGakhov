@@ -8,7 +8,7 @@ settings:
   url_text: "{REPO}{ID}"
   date:
     timezone: "Europe/Moscow"
-    text: "Последнее событие: {DATE} (GMT+3)"
+    text: "Последнее обновление: {DATE} (GMT+3)"
     format: "dddd, mmmm dS, yyyy, h:MM:ss TT"
   commit_name: "readme-bot"
   commit_email: "41898282+github-actions[bot]@users.noreply.github.com"

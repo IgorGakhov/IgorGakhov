@@ -1,9 +1,8 @@
 name: 👩‍💻 Inserts Recent Activity
 on:
   schedule:
-    - cron: '0 */8 * * *' # Run every 8 hours
-    # # Runs at the end of every day.
-    # - cron: '0 0 * * *'
+    # Runs at the end of every day.
+    - cron: '0 0 * * *'
   workflow_dispatch:
 jobs:
   build:
@@ -28,7 +27,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           COMMIT_MSG: ':zap: Updates recent activity'
         with:
-          CONFIG_FILE: "./.github/recent-activity-config/en-readme.config.yml"
+          CONFIG_FILE: "./.github/recent-activity-config/en-file.config.yml"
 
       - name: Adds activity to Readme (RU)
         uses: Readme-Workflows/recent-activity@v2.4.1
@@ -44,4 +43,4 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           COMMIT_MSG: ':zap: Updates recent activity'
         with:
-          CONFIG_FILE: "./.github/recent-activity-config/ru-readme.config.yml"
+          CONFIG_FILE: "./.github/recent-activity-config/ru-file.config.yml"

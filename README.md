@@ -15,18 +15,18 @@ Here are some ideas to get you started:
 
 
 <!-- Banner -->
-<p align="center"><img src="content/images/Readme_title_image.jpeg" alt="Banner"></p>
+<p align="center"><img src="content/images/Readme-title-image.jpeg" alt="Banner"></p>
 
 <!-- Language selection -->
-  <!-- <details align="right">
+<details align="right">
     <summary><b>🇬🇧 English</b></summary>
     <b><a href="locale/ru/README.md">🇷🇺 Russian</a></b>
-  </details> -->
+  </details>
 
 
 <!-- Title -->
 <h1 align="center">Hi, guys! <img alt="hello" img src="content/wave.gif" width="35"></h1>
-<p align="center"><b> Welcome to my page! </b><br><i>I'm Igor, currently learning Python and dreaming of becoming a strong developer.</i></p>
+<p align="center"><b>Welcome to my page!</b><br><i>I'm Igor, currently learning Python and dreaming of becoming a strong developer.</i></p>
 
 
 <!-- CV & Socials -->
@@ -35,13 +35,13 @@ Here are some ideas to get you started:
   <br>
   <kbd>
     <!-- <a href="https://cv.hexlet.io/ru/resumes/1379">
-      <img src="content/jobboards/hexlet_logo.svg" width="40" alt="Hexlet CV">
+      <img src="content/jobboards/hexlet-logo.svg" width="40" alt="Hexlet CV">
     </a> -->
     <a href="https://krasnodar.hh.ru/applicant/resumes/view?resume=3edd630dff0b3c4ebd0039ed1f36346a734577">
-      <img src="content/jobboards/hh_logo.svg" width="50" alt="HeadHunter CV">
+      <img src="content/jobboards/hh-logo.svg" width="50" alt="HeadHunter CV">
     </a>
     <a href="https://career.habr.com/igor_gakhov">
-      <img src="content/jobboards/habr_career_logo.svg" width="50" alt="Habr CV">
+      <img src="content/jobboards/habr-career-logo.svg" width="50" alt="Habr CV">
     </a>
   </kbd>
   <br>
@@ -83,7 +83,7 @@ Here are some ideas to get you started:
   <details>
     <summary><b>&#128100 About</b></summary>
       <p>
-        <img align="right" width="250" src="content/images/IgorGakhov.jpg" alt="Photo by Igor Gakhov" />
+        <img align="right" width="30%" src="content/images/IgorGakhov.jpg" alt="Photo by Igor Gakhov" />
       </p>
         
   <blockquote>
@@ -254,6 +254,8 @@ Here are some ideas to get you started:
 Last Updated: Friday, June 16th, 2023, 9:17:54 AM (GMT)
   <!--RECENT_ACTIVITY:last_update_end-->
 
+  ➡️  **[More Activity](/RECENT-ACTIVITY.md)**
+
   ----
 
   </details>
@@ -265,5 +267,5 @@ Last Updated: Friday, June 16th, 2023, 9:17:54 AM (GMT)
 
 <!-- Snake Section -->   
 <p align="center">
-  <img width="500" src="content/github_snake.gif" />
+  <img width="500" src="content/github-snake.gif" />
 </p>
