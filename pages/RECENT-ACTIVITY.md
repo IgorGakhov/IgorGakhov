@@ -1,37 +1,38 @@
 # Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [mjhea0/awesome-fastapi](https://github.com/mjhea0/awesome-fastapi)<br>
-2. ⬆️ Pushed 1 commit(s) to [Angry-Bits/.github](https://github.com/Angry-Bits/.github)<br>
+1. ⭐ Starred [tiangolo/full-stack-fastapi-postgresql](https://github.com/tiangolo/full-stack-fastapi-postgresql)<br>
+2. ⭐ Starred [mjhea0/awesome-fastapi](https://github.com/mjhea0/awesome-fastapi)<br>
 3. ⬆️ Pushed 1 commit(s) to [Angry-Bits/.github](https://github.com/Angry-Bits/.github)<br>
-4. 📔 Created new repository [Angry-Bits/.github](https://github.com/Angry-Bits/.github)<br>
-5. ⭐ Starred [testdrivenio/fastapi-crud-async](https://github.com/testdrivenio/fastapi-crud-async)<br>
-6. ⬆️ Pushed 3 commit(s) to [IgorGakhov/NFT-Text-Overlay-API](https://github.com/IgorGakhov/NFT-Text-Overlay-API)<br>
-7. 🎉 Merged PR [#6](https://github.com/IgorGakhov/NFT-Text-Overlay-API/pull/6) in [IgorGakhov/NFT-Text-Overlay-API](https://github.com/IgorGakhov/NFT-Text-Overlay-API)<br>
-8. ⬆️ Pushed 1 commit(s) to [IgorGakhov/Kefir-User-Storage-Service](https://github.com/IgorGakhov/Kefir-User-Storage-Service)<br>
+4. ⬆️ Pushed 1 commit(s) to [Angry-Bits/.github](https://github.com/Angry-Bits/.github)<br>
+5. 📔 Created new repository [Angry-Bits/.github](https://github.com/Angry-Bits/.github)<br>
+6. ⭐ Starred [testdrivenio/fastapi-crud-async](https://github.com/testdrivenio/fastapi-crud-async)<br>
+7. ⬆️ Pushed 3 commit(s) to [IgorGakhov/NFT-Text-Overlay-API](https://github.com/IgorGakhov/NFT-Text-Overlay-API)<br>
+8. 🎉 Merged PR [#6](https://github.com/IgorGakhov/NFT-Text-Overlay-API/pull/6) in [IgorGakhov/NFT-Text-Overlay-API](https://github.com/IgorGakhov/NFT-Text-Overlay-API)<br>
 9. ⬆️ Pushed 1 commit(s) to [IgorGakhov/Kefir-User-Storage-Service](https://github.com/IgorGakhov/Kefir-User-Storage-Service)<br>
 10. ⬆️ Pushed 1 commit(s) to [IgorGakhov/Kefir-User-Storage-Service](https://github.com/IgorGakhov/Kefir-User-Storage-Service)<br>
-11. ⬆️ Pushed 2 commit(s) to [IgorGakhov/Kefir-User-Storage-Service](https://github.com/IgorGakhov/Kefir-User-Storage-Service)<br>
-12. 🎉 Merged PR [#1](https://github.com/IgorGakhov/Kefir-User-Storage-Service/pull/1) in [IgorGakhov/Kefir-User-Storage-Service](https://github.com/IgorGakhov/Kefir-User-Storage-Service)<br>
-13. ⬆️ Pushed 2 commit(s) to [IgorGakhov/Kefir-User-Storage-Service](https://github.com/IgorGakhov/Kefir-User-Storage-Service)<br>
-14. 💪 Opened PR [#1](https://github.com/IgorGakhov/Kefir-User-Storage-Service/pull/1) in [IgorGakhov/Kefir-User-Storage-Service](https://github.com/IgorGakhov/Kefir-User-Storage-Service)<br>
-15. ⬆️ Pushed 1 commit(s) to [IgorGakhov/Kefir-User-Storage-Service](https://github.com/IgorGakhov/Kefir-User-Storage-Service)<br>
-16. 📔 Created new repository [IgorGakhov/Kefir-User-Storage-Service](https://github.com/IgorGakhov/Kefir-User-Storage-Service)<br>
-17. ⬆️ Pushed 2 commit(s) to [IgorGakhov/NFT-Text-Overlay-API](https://github.com/IgorGakhov/NFT-Text-Overlay-API)<br>
-18. 🎉 Merged PR [#4](https://github.com/IgorGakhov/NFT-Text-Overlay-API/pull/4) in [IgorGakhov/NFT-Text-Overlay-API](https://github.com/IgorGakhov/NFT-Text-Overlay-API)<br>
-19. ⬆️ Pushed 3 commit(s) to [IgorGakhov/NFT-Text-Overlay-API](https://github.com/IgorGakhov/NFT-Text-Overlay-API)<br>
-20. 🎉 Merged PR [#3](https://github.com/IgorGakhov/NFT-Text-Overlay-API/pull/3) in [IgorGakhov/NFT-Text-Overlay-API](https://github.com/IgorGakhov/NFT-Text-Overlay-API)<br>
-21. ⬆️ Pushed 4 commit(s) to [IgorGakhov/NFT-Text-Overlay-API](https://github.com/IgorGakhov/NFT-Text-Overlay-API)<br>
-22. 🎉 Merged PR [#1](https://github.com/IgorGakhov/NFT-Text-Overlay-API/pull/1) in [IgorGakhov/NFT-Text-Overlay-API](https://github.com/IgorGakhov/NFT-Text-Overlay-API)<br>
-23. ⬆️ Pushed 2 commit(s) to [IgorGakhov/NFT-Text-Overlay-API](https://github.com/IgorGakhov/NFT-Text-Overlay-API)<br>
-24. 🎉 Merged PR [#2](https://github.com/IgorGakhov/NFT-Text-Overlay-API/pull/2) in [IgorGakhov/NFT-Text-Overlay-API](https://github.com/IgorGakhov/NFT-Text-Overlay-API)<br>
-25. ⬆️ Pushed 1 commit(s) to [IgorGakhov/NFT-Text-Overlay-API](https://github.com/IgorGakhov/NFT-Text-Overlay-API)<br>
+11. ⬆️ Pushed 1 commit(s) to [IgorGakhov/Kefir-User-Storage-Service](https://github.com/IgorGakhov/Kefir-User-Storage-Service)<br>
+12. ⬆️ Pushed 2 commit(s) to [IgorGakhov/Kefir-User-Storage-Service](https://github.com/IgorGakhov/Kefir-User-Storage-Service)<br>
+13. 🎉 Merged PR [#1](https://github.com/IgorGakhov/Kefir-User-Storage-Service/pull/1) in [IgorGakhov/Kefir-User-Storage-Service](https://github.com/IgorGakhov/Kefir-User-Storage-Service)<br>
+14. ⬆️ Pushed 2 commit(s) to [IgorGakhov/Kefir-User-Storage-Service](https://github.com/IgorGakhov/Kefir-User-Storage-Service)<br>
+15. 💪 Opened PR [#1](https://github.com/IgorGakhov/Kefir-User-Storage-Service/pull/1) in [IgorGakhov/Kefir-User-Storage-Service](https://github.com/IgorGakhov/Kefir-User-Storage-Service)<br>
+16. ⬆️ Pushed 1 commit(s) to [IgorGakhov/Kefir-User-Storage-Service](https://github.com/IgorGakhov/Kefir-User-Storage-Service)<br>
+17. 📔 Created new repository [IgorGakhov/Kefir-User-Storage-Service](https://github.com/IgorGakhov/Kefir-User-Storage-Service)<br>
+18. ⬆️ Pushed 2 commit(s) to [IgorGakhov/NFT-Text-Overlay-API](https://github.com/IgorGakhov/NFT-Text-Overlay-API)<br>
+19. 🎉 Merged PR [#4](https://github.com/IgorGakhov/NFT-Text-Overlay-API/pull/4) in [IgorGakhov/NFT-Text-Overlay-API](https://github.com/IgorGakhov/NFT-Text-Overlay-API)<br>
+20. ⬆️ Pushed 3 commit(s) to [IgorGakhov/NFT-Text-Overlay-API](https://github.com/IgorGakhov/NFT-Text-Overlay-API)<br>
+21. 🎉 Merged PR [#3](https://github.com/IgorGakhov/NFT-Text-Overlay-API/pull/3) in [IgorGakhov/NFT-Text-Overlay-API](https://github.com/IgorGakhov/NFT-Text-Overlay-API)<br>
+22. ⬆️ Pushed 4 commit(s) to [IgorGakhov/NFT-Text-Overlay-API](https://github.com/IgorGakhov/NFT-Text-Overlay-API)<br>
+23. 🎉 Merged PR [#1](https://github.com/IgorGakhov/NFT-Text-Overlay-API/pull/1) in [IgorGakhov/NFT-Text-Overlay-API](https://github.com/IgorGakhov/NFT-Text-Overlay-API)<br>
+24. ⬆️ Pushed 2 commit(s) to [IgorGakhov/NFT-Text-Overlay-API](https://github.com/IgorGakhov/NFT-Text-Overlay-API)<br>
+25. 🎉 Merged PR [#2](https://github.com/IgorGakhov/NFT-Text-Overlay-API/pull/2) in [IgorGakhov/NFT-Text-Overlay-API](https://github.com/IgorGakhov/NFT-Text-Overlay-API)<br>
 26. ⬆️ Pushed 1 commit(s) to [IgorGakhov/NFT-Text-Overlay-API](https://github.com/IgorGakhov/NFT-Text-Overlay-API)<br>
 27. ⬆️ Pushed 1 commit(s) to [IgorGakhov/NFT-Text-Overlay-API](https://github.com/IgorGakhov/NFT-Text-Overlay-API)<br>
+28. ⬆️ Pushed 1 commit(s) to [IgorGakhov/NFT-Text-Overlay-API](https://github.com/IgorGakhov/NFT-Text-Overlay-API)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, June 28th, 2023, 2:21:50 AM (GMT)
+Last Updated: Thursday, June 29th, 2023, 2:19:03 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br>
