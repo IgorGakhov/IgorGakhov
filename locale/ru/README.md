@@ -221,11 +221,12 @@
   <p><b><i>Последние действия до сегодняшнего дня:</i></b></p>
 
   <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Запушил 1 коммит(а/ов) в [Angry-Bits/DatsOrange-2023](https://github.com/Angry-Bits/DatsOrange-2023)<br>
+1. 🔱 Создал форк [IgorGakhov/Metro-shop-parser](https://github.com/IgorGakhov/Metro-shop-parser) от [Dobrovera/Metro_parser](https://github.com/Dobrovera/Metro_parser)<br>
+2. ⬆️ Запушил 1 коммит(а/ов) в [Angry-Bits/DatsOrange-2023](https://github.com/Angry-Bits/DatsOrange-2023)<br>
   <!--RECENT_ACTIVITY:end-->
 
   <!--RECENT_ACTIVITY:last_update-->
-Последнее обновление: Monday, November 27th, 2023, 3:58:55 AM (GMT+3)
+Последнее обновление: Tuesday, November 28th, 2023, 4:02:11 AM (GMT+3)
   <!--RECENT_ACTIVITY:last_update_end-->
 
 ➡️  **[Больше активности](/locale/ru/pages/RECENT-ACTIVITY.md)**
