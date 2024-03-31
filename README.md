@@ -37,7 +37,7 @@ Here are some ideas to get you started:
     <!-- <a href="https://cv.hexlet.io/ru/resumes/1379">
       <img src="content/jobboards/hexlet-logo.svg" width="40" alt="Hexlet CV">
     </a> -->
-    <a href="https://krasnodar.hh.ru/applicant/resumes/view?resume=3edd630dff0b3c4ebd0039ed1f36346a734577">
+    <a href="https://krasnodar.hh.ru/applicant/resumes/view?resume=f619e96aff0d0442250039ed1f3241654b3542">
       <img src="content/jobboards/hh-logo.svg" width="50" alt="HeadHunter CV">
     </a>
     <a href="https://career.habr.com/igor_gakhov">
