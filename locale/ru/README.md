@@ -221,13 +221,10 @@
   <p><b><i>Последние действия до сегодняшнего дня:</i></b></p>
 
   <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Запушил 1 коммит(а/ов) в [IgorGakhov/MiniBank](https://github.com/IgorGakhov/MiniBank)<br>
-2. ⬆️ Запушил 1 коммит(а/ов) в [IgorGakhov/MiniBank](https://github.com/IgorGakhov/MiniBank)<br>
-3. ⬆️ Запушил 1 коммит(а/ов) в [IgorGakhov/MiniBank](https://github.com/IgorGakhov/MiniBank)<br>
   <!--RECENT_ACTIVITY:end-->
 
   <!--RECENT_ACTIVITY:last_update-->
-Последнее обновление: Monday, August 12th, 2024, 4:07:57 AM (GMT+3)
+Последнее обновление: Tuesday, August 13th, 2024, 4:07:21 AM (GMT+3)
   <!--RECENT_ACTIVITY:last_update_end-->
 
 ➡️  **[Больше активности](/locale/ru/pages/RECENT-ACTIVITY.md)**
